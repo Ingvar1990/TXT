@@ -1,0 +1,5 @@
+Favorite film: Gladiator,
+Favorite serial: Witcher,
+Favorite food: Seafood,
+Favorite season: Summer,
+Country to visit: Greece.
