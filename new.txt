@@ -1,0 +1,6 @@
+Name: Ihor,
+Surname: Kyrylov,
+Patronymic: Serhiyovych,
+Age: 32,
+Number of pats: 1,
+Desired salary: 1500 dollars.
